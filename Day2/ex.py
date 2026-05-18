@@ -1,0 +1,24 @@
+a=10
+b=10
+c=20
+print(id(a))
+print(type(a))
+print(a.__sizeof__())
+print(id(b))
+print(type(b))
+print(b.__sizeof__())
+print(id(c))
+print(type(c))
+print(c.__sizeof__())
+d=None
+print(id(d))
+print(type(d))
+print(d.__sizeof__())
+name='Hareesh'
+print(type(name))
+Name='Pavan'
+NAME='Chaitu'
+name1='Sandeep'
+_name='sai priya'
+_1name='Monika'
+print(name,Name,NAME,name1,_name,_1name)

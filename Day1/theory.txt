@@ -1,0 +1,15 @@
+language: sharing thoughts
+program: sequence of steps
+programing language: assining a squence of step to complete a task to
+a mechine
+disk: ROM perminent storage
+memory:RAM temporary storage
+Low level language: system understable languages(binary language,Assembly level language,cobal)
+high level language:Human understable language(python,java,c#)(for,in,of,is,not,and,or)
+1.compiler based (bach processing) (c)
+2.interpriter based (line by line) (js)
+3.hibried(compiler,interpriter) (java,python,c#)
+
+python:
+python is a high-level interprited objected orianted programing language.it is a multi centric languaes.
+it is dianmically typed langauge.it is varsatile. it is easy to leran
