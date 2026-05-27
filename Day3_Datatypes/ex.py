@@ -51,14 +51,16 @@
 # print(bool(st))
 # print(bool(s))
 
-a=10
-print(id(a))
-a=20
-print(id(a))
+# a=10
+# print(id(a))
+# a=20
+# print(id(a))
 
-l=[1,2,3,4]
-print(l)
-print(id(l))
-l.append(5)
-print(l)
-print(id(l))
+# l=[1,2,3,4]
+# print(l)
+# print(id(l))
+# l.append(5)
+# print(l)
+# print(id(l))
+
+print('10'-10)
